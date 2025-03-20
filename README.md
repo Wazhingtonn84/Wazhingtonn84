@@ -2,6 +2,9 @@
 
 ![Wazhingtonn84's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazhingtonn84&show_icons=true&theme=radical)
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazhingtonn84&layout=compact&theme=radical)
+
 ---
 ### 🚀 Languages & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
