@@ -1,6 +1,6 @@
-### Hi There, 👋 I'm EMMANUEL KIMUTAI
+### Hi There, 👋 I'm [EMMANUEL KIMUTAI]
 
-Wazhingtonn84's GitHub Stats (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Wazhingtonn84's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wazhingtonn84&show_icons=true&theme=radical)
 
 ---
 ### 🚀 Languages & Tools
@@ -12,10 +12,9 @@ Wazhingtonn84's GitHub Stats (https://github-readme-stats.vercel.app/api?usernam
 
 ---
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wazhingtonn84&layout=compact&theme=radical)
 
 ---
 ### 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-kimutai-
-942754290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-kimutai-942754290/)
 
