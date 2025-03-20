@@ -1,6 +1,6 @@
-### Hi There, 👋 I'm [EMMANUEL KIMUTAI]
+### Hi There, 👋 I'm EMMANUEL KIMUTAI
 
-![Wazhingtonn84's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+Wazhingtonn84's GitHub Stats (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 ### 🚀 Languages & Tools
