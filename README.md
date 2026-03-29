@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Emmanuel from Kenya..<br><br>-  I’m a Software Engineer by professiona.<br>- I'm currently pivoting to data, on the to become a Data Analyst .<br>- In my free time I like gathering bits of knowledge.<br>-  Motto: Keep striving for progress, not perfection. </p>
+<p align="left">I'm Emmanuel from Kenya..<br><br>-  I’m a Software Engineer by profession.<br>- I'm currently pivoting to data, on the to become a Data Analyst .<br>- In my free time I like gathering bits of knowledge.<br>-  Motto: Keep striving for progress, not perfection. </p>
 
 ###
 
