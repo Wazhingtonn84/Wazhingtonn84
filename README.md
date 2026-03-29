@@ -64,9 +64,9 @@
 </div> -->
 
 ###
-<!-- <div align="left">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Wazhingtonn84.Wazhingtonn84&left_color=purple&right_color=mediumblue"  />
-</div> -->
+</div> 
 
 ###
 
