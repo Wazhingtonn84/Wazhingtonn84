@@ -8,17 +8,17 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm Emmanuel from Kenya..<br><br>- 🔭 I’m working as Software Developer.<br>- 📚 I'm currently learning OOP.<br>- ⚡ In my free time I like gathering bits of knowledge.<br>- ⚡ Motto: Keep striving for progress, not perfection. </p>
+<p align="left">I'm Emmanuel from Kenya..<br><br>-  I’m a Software Engineer by professiona.<br>- I'm currently pivoting to data, on the to become a Data Analyst .<br>- In my free time I like gathering bits of knowledge.<br>-  Motto: Keep striving for progress, not perfection. </p>
 
 ###
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">Language and tools</h2>
 
 ###
 
@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -52,7 +50,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<!-- <h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -63,12 +61,12 @@
   </div>
       <img src="https://streak-stats.demolab.com?user=Wazhingtonn84&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   
-</div>
+</div> -->
 
 ###
-<div align="left">
+<!-- <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Wazhingtonn84.Wazhingtonn84&left_color=purple&right_color=mediumblue"  />
-</div>
+</div> -->
 
 ###
 
